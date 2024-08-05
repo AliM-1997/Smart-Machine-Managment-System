@@ -5,31 +5,21 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-> Industrial Machine Management and Predictive Maintenance System is designed to optimize machine performance and reduce downtime by leveraging advanced data analytics and machine learning. The platform focuses on providing actionable insights to ensure industrial machines operate efficiently and predictively.
->
-> C Our mission is to enhance machine uptime and operational efficiency through AI-driven insights, fostering a more proactive approach to maintenance and reducing unexpected failures. We believe in transforming industrial operations by making data-driven decisions accessible and actionable.
+> Industrial Machine Management and Predictive Maintenance System is designed to optimize machine performance and reduce downtime by leveraging advanced data analytics and machine learning, providing actionable AI-driven insights to enhance machine uptime and operational efficiency through proactive maintenance and reduced unexpected failures.
 
 ### User Stories
 
-- As a plant manager, I want to access a dashboard that displays comprehensive information on machine health.
-- As a plant manager, I want to view upcoming maintenance schedules on the dashboard.
-- As a plant manager, I want to review historical data on machine performance and maintenance.
-
-<br><br>
-
-### User Stories
-
-- As a plant owner, I want to access a high-level dashboard that provides an overview of overall machine health and operational efficiency.
-- As a plant owner, I want to see consolidated reports on maintenance activities and machine performance.
-- As a plant owner, I want to receive notifications of significant issues or trends affecting plant operations.
+- As a manager, I want to access a dashboard that displays comprehensive information on machine health.
+- As a manager, I want to view upcoming maintenance schedules on the dashboard.
+- As a manager, I want to review historical data on machine performance and maintenance.
 
 <br><br>
 
 ### User Stories
 
 - As a user, I want to get alerts about upcoming maintenance to avoid disruptions.
-- As a regular user, I want to view machine performance data to spot issues early.
-- As a regular user, I want to check the maintenance schedule to plan my work around downtime.
+- As a user, I want to view machine performance data to spot issues early.
+- As a user, I want to check the maintenance schedule to plan my work around downtime.
 
 <br><br>
 
