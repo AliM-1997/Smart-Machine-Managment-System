@@ -9,13 +9,13 @@
 
 ### User Stories
 
+#### Manager
+
 - As a manager, I want to access a dashboard that displays comprehensive information on machine health.
 - As a manager, I want to view upcoming maintenance schedules on the dashboard.
 - As a manager, I want to review historical data on machine performance and maintenance.
 
-<br><br>
-
-### User Stories
+#### User
 
 - As a user, I want to get alerts about upcoming maintenance to avoid disruptions.
 - As a user, I want to view machine performance data to spot issues early.
