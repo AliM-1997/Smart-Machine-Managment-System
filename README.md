@@ -44,8 +44,8 @@
 
 ### Architecting Data Excellence: Innovative Database Design Strategies:
 
-- Insert ER Diagram here
-
+| ------------------------------------------- |
+| ![Landing](./readme/assets/database-diagram.png) |
 <br><br>
 
 <!-- Implementation -->
