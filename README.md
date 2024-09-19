@@ -100,16 +100,32 @@
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
-> To set up Coffee Express locally, follow these steps:
+> To set up Coffee machine controller locally, follow these steps:
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Before setting up the project, ensure you have the following installed on your machine:
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+1. npm
+   If you need to update npm to the latest version:
+
+```sh
+npm install npm@latest -g
+```
+
+2. PHP and Composer
+   -Download PHP from[here](https://www.php.net/downloads)
+   -Composer Installation:
+   Follow the installation guide on(getcomposer.org)
+
+3. MySQL Database
+   Download MySQL from the(https://dev.mysql.com/downloads/installer/)
+
+4. Python
+   Download and install Python from (https://www.python.org/downloads/)
+
+5. Arduino IDE
+   Download the Arduino IDE from (https://www.arduino.cc/en/software)
 
 ### Installation
 
