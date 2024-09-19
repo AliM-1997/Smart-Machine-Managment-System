@@ -57,6 +57,7 @@
 | ------------------------------------------- | -------------------------------------------- | ----------------------------------------- |
 | ![Landing](./readme/assets/admin-login.png) | ![fsdaf](./readme/assets/admin-register.png) | ![fsdaf](./readme/assets/predicitons.png) |
 | Dashboard screen                            | Dark Mode                                    | Order Screen                              |
+| ------------------------------------------- | -------------------------------------------- | ----------------------------------------- |
 | ![Landing](./readme/assets/dashboard.png)   | ![fsdaf](./readme/assets/dark-mode.png)      | ![fsdaf](./readme/demo/1440x1024.png)     |
 
 <br><br>
