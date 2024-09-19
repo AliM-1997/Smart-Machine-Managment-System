@@ -26,13 +26,16 @@
 <!-- Tech stack -->
 <img src="./readme/title3.svg"/>
 
-### Coffee Express is built using the following technologies:
+### Smart Machine Controller is built using the following technologies:
 
-- This project uses the [Flutter app development framework](https://flutter.dev/). Flutter is a cross-platform hybrid app development platform which allows us to use a single codebase for apps on mobile, desktop, and the web.
-- For persistent storage (database), the app uses the [Hive](https://hivedb.dev/) package which allows the app to create a custom storage schema and save it to a local database.
-- To send local push notifications, the app uses the [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) package which supports Android, iOS, and macOS.
-  - 🚨 Currently, notifications aren't working on macOS. This is a known issue that we are working to resolve!
-- The app uses the font ["Work Sans"](https://fonts.google.com/specimen/Work+Sans) as its main font, and the design of the app adheres to the material design guidelines.
+- This project uses the [React](https://reactjs.org/) library. React is a popular JavaScript library for building dynamic and interactive user interfaces, ensuring seamless user experience across web applications.
+- For backend services, the app is powered by [Laravel](https://laravel.com/), a PHP framework known for its elegant syntax and ability to handle business logic and APIs with ease.
+- To store persistent data (database), the app utilizes [MySQL](https://www.mysql.com/), which allows storing machine statistics, user information, tasks, and notifications in a relational database.
+- **Real-Time Task Notification System**: The app uses [Laravel Notifications](https://laravel.com/docs/9.x/notifications) to send real-time notifications when a task is assigned or updated. This includes:
+  - **Database Notifications**: Notifications are stored in the database, allowing users to view past notifications.
+- Machine statistics like MTTR, MTBF, and machine availability are calculated using background processes in Laravel's job queues.
+- The app employs [Python](https://www.python.org/) along with machine learning libraries such as [Scikit-learn](https://scikit-learn.org/) to predict machine failures and estimate the life cycle of spare parts based on historical data.
+- **IoT Integration**: The IoT system, using [ESP](https://www.espressif.com/en/products/socs/esp8266) and [Arduino](https://www.arduino.cc/), reads data from temperature sensors and stores it in the database for further analysis, enabling real-time monitoring of environmental conditions without directly connecting to the machines.
 
 <br><br>
 
