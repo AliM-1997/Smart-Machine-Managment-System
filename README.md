@@ -44,7 +44,7 @@
 
 ### Architecting Data Excellence: Innovative Database Design Strategies:
 
-| ![Landing](./readme/assets/database-diagram.png) |
+![Landing](./readme/assets/database-diagram.png)
 <br><br>
 
 <!-- Implementation -->
