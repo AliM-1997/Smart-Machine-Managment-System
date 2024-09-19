@@ -53,13 +53,21 @@
 
 ### Admin Screens (Web)
 
-| Login screen                                | Register screen                                  |
+| Login Screen                                | Register Screen                                  |
 | ------------------------------------------- | ------------------------------------------------ |
 | ![Landing](./readme/assets/admin-login.png) | ![fsdaf](./readme/assets/admin-register.png)     |
-| Dashboard screen                            | Dark Mode                                        |
+| Dashboard Screen                            | Dark Mode                                        |
 | ![Landing](./readme/assets/dashboard.png)   | ![fsdaf](./readme/assets/dark-mode.png)          |
 | Prediction                                  | Selected Machine                                 |
 | ![Landing](./readme/assets/predicitons.png) | ![Landing](./readme/assets/selected-machine.png) |
+
+<br><br>
+
+### User Screens (Web)
+
+| Alet Screen                                      | Task Preview Screen                             |
+| ------------------------------------------------ | ----------------------------------------------- |
+| ![Landing](./readme/assets/user-alerts-page.png) | ![fsdaf](./readme/assets/user-task-preview.png) |
 
 <br><br>
 
