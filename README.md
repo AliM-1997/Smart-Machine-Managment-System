@@ -115,16 +115,37 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [example](https://example.com)
-2. Clone the repo
-   git clone [github](https://github.com/your_username_/Project-Name.git)
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
+1. Clone the repo
+   git clone [github](https://github.com/AliM-1997/machine-controller)
+2. Navigate to the project directory
 
-Now, you should be able to run Coffee Express locally and explore its features.
+```sh
+cd machine-controller
+
+```
+
+3. Frontend Setup (React): Navigate to the frontend directory and install the required npm packages and run.
+
+```sh
+cd front
+npm install
+npm start
+```
+
+4. Backend Setup (Laravel): Navigate to the backend directory and install the required Composer packages and run.
+
+```sh
+cd back
+composer install
+php artisan serve --host=0.0.0.0 --port=8000
+```
+
+5. Install the Python packages using requirements.txt for machine learning and run:
+
+```sh
+cd prediction
+pip install -r requirements.txt
+python -m app.main.py
+```
+
+Now, you should be able to run machine controller locally and explore its features.
